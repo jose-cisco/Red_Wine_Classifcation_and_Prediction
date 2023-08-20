@@ -10,8 +10,6 @@
 
 # pip install numpy matplotlib scikit-learn
 # pip install seaborn
-# pip install openpyxl
-# pip install catboost
 # pip install xgboost
 # pip install pandas
 # pip install tensorflow
